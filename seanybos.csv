@@ -1,0 +1,19 @@
+City,Race,2020,2010,1990,1970
+Seattle,White,59.5,66.3,73.7,85.3
+Seattle,Asian,16.9,13.7,11.8,4.2
+Seattle,Hispanic or Latino,8.2,6.6,3.6,2.0
+Seattle,Black,6.8,7.7,10.1,7.1
+Seattle,Other,0.6,0.2,,
+Seattle,Two or more races,7.3,4.4,,
+NY,White,30.9,33.3,43.4,64.0
+NY,Hispanic or Latino,28.3,28.6,23.7,15.2
+NY,Black,20.2,22.8,28.8,21.1
+NY,Asian,15.6,12.6,7.0,1.2
+NY,Other,0.2,0.2,0.4,0.1
+NY,Two or more races,3.4,1.8,,
+Boston,White,44.7,47.0,59.0,79.5
+Boston,Black,22.0,24.4,23.8,16.3
+Boston,Hispanic or Latino,19.5,17.5,10.8,2.8
+Boston,Asian,9.7,8.9,5.3,1.3
+Boston,Two or more races,3.2,3.9,,
+Boston,Other,0.2,0.4,0.3,0.2
